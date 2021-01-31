@@ -1,0 +1,4 @@
+*.bak
+*.ini
+.vs/**
+.vscode/**
